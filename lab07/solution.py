@@ -1,3 +1,5 @@
+"""Решения заданий lab07 с использованием NumPy."""
+
 import numpy as np
 
 
